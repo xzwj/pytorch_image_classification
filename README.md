@@ -1,4 +1,4 @@
-# PyTorch Implementations of Image Classification
+# PyTorch Implementations for Image Classification
 ## Datasets
 - MNIST
 - CIFAR10
