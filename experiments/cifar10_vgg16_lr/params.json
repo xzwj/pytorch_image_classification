@@ -1,0 +1,17 @@
+{
+    "lr": 0.1,
+    "batch_size": 32,
+    "num_epochs": 200,
+    
+    "save_summary_steps": 100,
+    "num_workers": 4,
+
+    "optim": "sgd",
+    "momentum": 0.9,
+    "wd": 5e-4,
+
+    "input_channel": 3,
+    "input_h": 32,
+    "input_w": 32,
+    "num_class": 10
+}
