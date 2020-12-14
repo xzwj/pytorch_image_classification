@@ -196,7 +196,6 @@ Create a conda environment and install requirements using pip:
 ## How to Run
 Train a model with the specified hyperparameters:
 ```
->>> cd YuanTian_ASS2/code
 >>> python train.py --model {model name} --dataset {dataset name} --model_dir {hyperparameter directory}
 ```
 For example, using VGG16 and CIFAR10 to train a model with the hyperparameters in experiments/cifar10_vgg16/params.json:
